@@ -1,0 +1,5 @@
+D:\Users\crx\Documents\Visual Studio 2010\Projects\cs544\DES\bin\Release\DES.dll
+D:\Users\crx\Documents\Visual Studio 2010\Projects\cs544\DES\bin\Release\DES.pdb
+D:\Users\crx\Documents\Visual Studio 2010\Projects\cs544\DES\obj\Release\ResolveAssemblyReference.cache
+D:\Users\crx\Documents\Visual Studio 2010\Projects\cs544\DES\obj\Release\DES.dll
+D:\Users\crx\Documents\Visual Studio 2010\Projects\cs544\DES\obj\Release\DES.pdb

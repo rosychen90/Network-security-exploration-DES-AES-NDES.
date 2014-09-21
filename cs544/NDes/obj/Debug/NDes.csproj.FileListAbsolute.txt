@@ -1,0 +1,7 @@
+D:\Users\crx\Documents\Visual Studio 2010\Projects\cs544\NDes\bin\Debug\NDes.dll
+D:\Users\crx\Documents\Visual Studio 2010\Projects\cs544\NDes\bin\Debug\NDes.pdb
+D:\Users\crx\Documents\Visual Studio 2010\Projects\cs544\NDes\bin\Debug\DES.dll
+D:\Users\crx\Documents\Visual Studio 2010\Projects\cs544\NDes\bin\Debug\DES.pdb
+D:\Users\crx\Documents\Visual Studio 2010\Projects\cs544\NDes\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\crx\Documents\Visual Studio 2010\Projects\cs544\NDes\obj\Debug\NDes.dll
+D:\Users\crx\Documents\Visual Studio 2010\Projects\cs544\NDes\obj\Debug\NDes.pdb
